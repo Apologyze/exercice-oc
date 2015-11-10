@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Page de démonstration - Contact</title>
+	<script src="js/main.js"></script>
 </head>
 <body>
 	<form action="">

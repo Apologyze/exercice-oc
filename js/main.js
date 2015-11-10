@@ -1,0 +1,1 @@
+alert('Merci beaucoup pour ce cours sur Git.');
