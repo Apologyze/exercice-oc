@@ -15,5 +15,6 @@
 		<li>Lorem ipsum dolor sit amet.</li>
 		<li>Lorem ipsum dolor sit amet.</li>
 	</ul>
+	<a href="contact.php">Nous contacter</a>
 </body>
 </html>
